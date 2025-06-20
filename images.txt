@@ -1,7 +1,7 @@
 #nginx
-#mongodb/mongodb-community-server:5.0.23-ubi8
+dlavrenuek/bitnami-mongodb-arm:6.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 mongodb/mongodb-community-server:5.0.23-ubi8
+#--platform=linux/arm64 mongodb/mongodb-community-server:5.0.23-ubi8
